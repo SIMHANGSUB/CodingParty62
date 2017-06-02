@@ -38,7 +38,7 @@
  
  2. 가입시 입력한 username 을 심항섭에게 개인톡 전달
 
-3. https://github.com/SIMHANGSUB/CodingParty62 에 접속하여 초대 수락
+3. https://github.com/SIMHANGSUB/CodingParty62/invitations 에 접속하여 초대 수락
 
 4. 가입시 입력한 e-mail 을 통해 Github에서 온 이메일을 통해 verify 받기
 
@@ -47,9 +47,3 @@
    ( 윈도우 익스플로러 환경에서 동작되지 않을 수 있으니 문제 발생시 크롬, 파이어폭스 웹 브라우저에서 실행 )
 
 6. 끝!
-
-
-
-
-
- 2. 
