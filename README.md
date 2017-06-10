@@ -95,6 +95,9 @@ Github 는 오픈소스 방식입니다. 즉 서로 올린 코드를 볼 수 있
 
 
 	□ 코딩 ( 파이썬 )
+	
+	0. 자습 동영상 ( 심화 학습 )
+	https://www.youtube.com/playlist?list=PLuHgQVnccGMA0lO0qip6Phh6UL73TS0es (생활코딩)
 
 	1. 파이썬 설치
 	   - 파이썬 사용법 동영상 https://youtu.be/M-84NmW8zJ0 
