@@ -105,7 +105,9 @@ Github 는 오픈소스 방식입니다. 즉 서로 올린 코드를 볼 수 있
 	   - 파이썬 사용법 동영상 https://youtu.be/M-84NmW8zJ0 
 	
 	2. 변수(Variable) 의 이해
-
+	
+	3. 프로그램 제어(Program flow)
+ 	- For 문과 If 문의 이해
 	 	
 
 	□ 한글 ( HWP )
